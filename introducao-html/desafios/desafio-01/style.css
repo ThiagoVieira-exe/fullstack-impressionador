@@ -1,0 +1,59 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 1.1;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+figure figcaption {
+  font-size: 12px;
+  font-style: italic;
+}
+
+header a {
+  color: #c44105;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-style: double;
+}
+
+ul li {
+  color: #035276;
+  font-style: italic;
+}
+
+h1 span {
+  color: #0588c4;
+}
+
+#preco p strong,
+b {
+  color: #0588c4;
+}
+
+#condicoes i,
+em {
+  color: #0588c4;
+}
+
+#condicoes em {
+  text-decoration: underline;
+}
